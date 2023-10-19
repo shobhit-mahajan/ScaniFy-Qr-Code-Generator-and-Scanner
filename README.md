@@ -25,7 +25,7 @@
 * The Firefox version supports automatic updates.
 
 ### Show your support
-* Follow me on Linkedin [Shobhit Mahajan](www.linkedin.com/in/shobhitmahajan38) for updates.
+* Follow me on Linkedin [Shobhit_mahajan](www.linkedin.com/in/shobhitmahajan38) for updates.
 * I wish that you star this repo.
 
 ### Disclaimer
