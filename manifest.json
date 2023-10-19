@@ -1,0 +1,17 @@
+{
+               "manifest_version":3,
+               "name" : "ScaniFy",
+               "version" : "1.0",
+               "description":"Generate Qr code of Website and scan with your phone to get easy access to your phone also.",
+               "action" :{
+                      "default_popup":"index.html"
+               },
+               "icons":{
+                    "16":"image/scanify-logo.png",
+                    "32":"image/scanify-logo.png",
+                    "48":"image/scanify-logo.png"
+               },
+               "permissions":[
+                    "tabs"
+               ]
+}
